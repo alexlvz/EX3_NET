@@ -1,5 +1,5 @@
-alexlv
-Alex Levenzon 308636141
+Read the instructions file first :)
+
 EX3
 server.c - Implementation of a HTTP server
 threadpool.c - implementation of threadpool that will be used by the server
